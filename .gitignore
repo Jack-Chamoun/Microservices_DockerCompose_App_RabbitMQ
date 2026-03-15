@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+microservices/node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build outputs (if you use a build system)
+dist/
+build/
+
+# Coverage reports (if you use Jest/other testing)
+coverage/
+
+# MongoDB local files (if you accidentally add a database file)
+*.db
+*.lock
